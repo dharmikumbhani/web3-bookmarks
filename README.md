@@ -70,6 +70,8 @@ NFTs
 ---
 ### Articles
 - [NFT Canon](https://future.a16z.com/nft-canon/) - This is a one stop shop for everything related to NFTs.
+- [How NFT Will Change Content World](https://www.verizon.com/about/news/how-nft-will-change-content-world)
+- [10 NFT Future Use Cases](https://identityreview.com/10-nft-future-use-cases/)
 - [Odyssey's NFT Learning Path](https://www.odysseydao.com/pathways/nft) - Learning Path to NFTs
 - [How to Mint an NFT from a Smart Contract on Etherscan: Step-by-Step](https://momentranks.com/blog/how-to-mint-an-nft-from-a-smart-contract-on-etherscan-step-by-step)
 
