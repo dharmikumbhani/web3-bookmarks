@@ -1,6 +1,7 @@
 # web3-bookmarks
 ![banner](./images/web3-bookmarks-banner.png)
 A manually curated collection of reading articles/resources and bookmarks for web3 enthusiasts.
+(Although this is a huge list, it is in no shape or form complete, so if you have any edition/addition in the list, feel free to create a pull request and i will surely merge it in)
 
 - [web3-bookmarks](#web3-bookmarks)
   - [Getting Started](#getting-started)
