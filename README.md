@@ -47,8 +47,8 @@ A manually curated collection of reading articles/resources and bookmarks for we
 Getting Started
 ---
 - [Why Decentralization Matters](https://onezero.medium.com/why-decentralization-matters-5e3f79f7638e)
-- [Curious Beginner's Guide to Crypto](https://creatoreconomy.so/p/curious-beginner-guide-to-crypto)
 - [What Exactly is Web3? by Juan Benet at Web3 Summit 2018](https://www.youtube.com/watch?v=l44z35vabvA)
+- [Curious Beginner's Guide to Crypto](https://creatoreconomy.so/p/curious-beginner-guide-to-crypto)
 - [What is a Web3 Wallet? – Web3 Wallets Explained](https://moralis.io/what-is-a-web3-wallet-web3-wallets-explained/)
 - [What Is a Block Explorer?](https://www.gemini.com/cryptopedia/what-is-a-block-explorer-btc-bch-eth-ltc)
 - [What are DApps](https://decrypt.co/resources/dapps)
