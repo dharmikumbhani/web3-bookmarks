@@ -4,7 +4,6 @@ A manually curated collection of reading articles/resources and bookmarks for we
 
 - [web3-bookmarks](#web3-bookmarks)
   - [Getting Started](#getting-started)
-    - [One Stop Shop:](#one-stop-shop)
     - [Becoming a web3.0 native](#becoming-a-web30-native)
   - [NFTs](#nfts)
     - [Articles](#articles)
@@ -14,8 +13,8 @@ A manually curated collection of reading articles/resources and bookmarks for we
     - [Articles](#articles-1)
     - [Interesting DAOs to Join](#interesting-daos-to-join)
     - [DAO Tools](#dao-tools)
-      - [Data](#data)
       - [Multi Feature](#multi-feature)
+      - [Data](#data)
       - [Enabling Coordination](#enabling-coordination)
       - [Treasury Management](#treasury-management)
       - [Governance](#governance)
@@ -55,14 +54,14 @@ Getting Started
 - [NFTs make the internet ownable](https://variant.mirror.xyz/T8kdtZRIgy_srXB5B06L8vBqFHYlEBcv6ae2zR6Y_eo)
 - [A beginner’s guide to DAOs](https://linda.mirror.xyz/Vh8K4leCGEO06_qSGx-vS5lvgUqhqkCz9ut81WwCP2o)
 - [A beginner's guide to DeFi](https://nakamoto.com/beginners-guide-to-defi/)
+- [The web3 Glossary](https://unstoppabledomains.com/blog/the-web3-glossary)
 - [rabbithole](https://rabbithole.gg) - Learn how to use and contribute to decentralized apps, earning tokens based on your on-chain activity.
 - [Whiteboard Crypto](https://www.youtube.com/c/WhiteboardCrypto) - Video Illustrations to break down web3 concepts.
-### One Stop Shop:
-- [Odyssey DAO](https://www.odysseydao.com) - A learning DAO creating quality, free web3 education. Get "12 days of Web3" email series or start learning at your own pace.
 ### Becoming a web3.0 native
 - [Beginner's Guide to Discord](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord) - Most of the discussion for web3 happen on discord.
 - [MetaMask: What It Is and How To Use It](https://decrypt.co/resources/metamask)
 - [What is .eth? ENS Domains explained](https://www.youtube.com/watch?v=jssRnV5Ob6A)
+- [Odyssey DAO](https://www.odysseydao.com) - A learning DAO creating quality, free web3 education. Get "12 days of Web3" email series or start learning at your own pace.
 
 <br/>
 
@@ -118,13 +117,15 @@ We’re building a future where the value created by communities on the internet
 - [Dropout DAO](https://dropoutdao.xyz) - The first decentralized university.
 
 ### DAO Tools
-#### Data
-- [Deep DAO](https://deepdao.io/#/deepdao/dashboard) - DeepDAO lists, ranks and analyzes top DAOs across multiple metrics.
 #### Multi Feature
 - [Aragon](https://aragon.org/aragon-client) - Level-up your Community
 - [commonwealth](https://commonwealth.im) - For on-chain communities to discuss, vote, and fund projects together.
 - [Colony](https://colony.io) - Helps build organizations together, online.
 - [utopialabs](https://www.utopialabs.com) - Collaborative payroll and expense management for DAOs
+- [Anytype](https://anytype.io/en) - operating system for life
+- [Tally](https://www.withtally.com) - Tally empowers user owned governance through a voting dashboard, governance tooling, real time research and analysis, and an evergreen wiki.
+#### Data
+- [Deep DAO](https://deepdao.io/#/deepdao/dashboard) - DeepDAO lists, ranks and analyzes top DAOs across multiple metrics.
 #### Enabling Coordination
 - [Coordinape](https://coordinape.com) - Scale your community with tools to reward contributors, incentivize participation and manage resources
 - [Daohaus](https://daohaus.club) - Unlock the next tier in community cooperation
@@ -149,9 +150,10 @@ Defi
 ---
 ### Articles
 - [A beginner's guide to DeFi](https://nakamoto.com/beginners-guide-to-defi/)
-- [Finematics](https://www.youtube.com/c/Finematics)
-### Tools & Resources
-- [Defi Lamba](https://defillama.com) -  A website that shows the current price levels of decentralized finance (DeFi) cryptocurrencies.
+- [Finematics](https://www.youtube.com/c/Finematics) - Educational videos on DeFi (Decentralized Finance).
+- [What are decentralized exchanges, and how do DEXs work?](https://cointelegraph.com/defi-101/what-are-decentralized-exchanges-and-how-do-dexs-work)
+### Tickers & Defi Aggregator
+- [Defi Llama](https://defillama.com) - DefiLlama is a DeFi TVL aggregator. It is committed to providing accurate data without ads or sponsored content, as well as transparency.
 - [Zapper](https://zapper.fi) - Manage your entire web3 portfolio from DeFi to NFTs and whatever comes next. Invest in the latest opportunities from one convenient place.
 - [Matcha](https://matcha.xyz) - Trade all DEXs at once
 - [Defi Pulse](https://defipulse.com) - For keeping track of DeFi assets and projects of all kinds.
@@ -164,11 +166,11 @@ Defi
 Developers
 ---
 ### Articles
+- [Blockchain Demo](https://andersbrownworth.com/blockchain/)
 - [How to Break into Ethereum, Crypto, and Web3 as a Developer](https://www.freecodecamp.org/news/breaking-into-ethereum-crypto-web3-as-a-developer/)
 - [Defining the web3 stack](https://edgeandnode.com/blog/defining-the-web3-stack)
 - [101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 - [How to Learn Solidity Programming (the Fun Way)](https://www.nateliason.com/blog/learn-solidity)
-- [77+ Smart Contract Use Cases Enabled By Chainlink](https://blog.chain.link/44-ways-to-enhance-your-smart-contract-with-chainlink/)
 ### Tools & Resources
 - [Buildspace](https://buildspace.so) - Learn by making stuff.
 - [CryptoZombies](https://cryptozombies.io) - Learn to Code Blockchain DApps By Building Simple Games
@@ -333,6 +335,8 @@ People to Follow
 - [Greg Isenberg](https://twitter.com/gregisenberg)
 - [6529](https://twitter.com/punk6529)
 - [richerd.eth](https://twitter.com/richerd)
+- [Andre Cronje](https://twitter.com/AndreCronjeTech)
+- [Route2Fi](https://twitter.com/Route2FI)
 
 <br/>
 
