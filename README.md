@@ -343,7 +343,7 @@ People to Follow
 
 <br/>
 
-## Books To Read
+## Books Recommendations
 - [Blockchain Revolution by Don Tap]()
 - [The Soverign Individual]()
 - [Community Matters]()
