@@ -166,6 +166,34 @@ Defi
 
 <br/>
 
+Crypto Gaming
+---
+### Articles
+- [The Financialization of Fun: Crypto Gaming Thesis](https://www.mechanism.capital/crypto-gaming-thesis/)
+
+### Games
+- [Gala Games](https://app.gala.games) - Making blockchain games you'll actually want to play.
+- [Sandbox](https://www.sandbox.game/) - The Sandbox is a virtual Metaverse where players can play, build, own, and monetize their virtual experiences.
+- [Axie Infinity](https://axieinfinity.com) - A digital nation, Battle Collect and Earn
+
+
+<br/>
+
+Metaverse
+---
+### Articles
+- [WHAT IS THE METAVERSE, AND DO I HAVE TO CARE?](https://www.theverge.com/22701104/metaverse-explained-fortnite-roblox-facebook-horizon/)
+- [The Metaverse Explained](https://loupfunds.com/the-metaverse-explained-part-1-an-inside-look/) - (A detailed 4 part series by Loup Ventures)
+- [The Metaverse: What It Is, Where to Find it, and Who Will Build It](https://www.matthewball.vc/all/themetaverse)
+- [Life in the Metaverse](https://reboothq.substack.com/p/metaverse)
+- [I Spent 100 Days in the Metaverse by Ryan Trahan](https://www.youtube.com/watch?v=mufeRQYgqZc)
+### Metaverses
+- [Metaverse Resources](https://metaverseresources.org)
+- [Decentraland](https://decentraland.org) - Create, explore and trade in the first-ever virtual world owned by its users.
+- [Hubs by Mozilla](https://hubs.mozilla.com) - Meet, share and collaborate together in private 3D virtual spaces.
+
+<br/>
+
 Developers
 ---
 ### Articles
@@ -276,35 +304,6 @@ Podcasts
 - [Bankless](https://www.youtube.com/c/Bankless/videos)
 - [Unchained Podcast](https://unchainedpodcast.com)
 - [Superteam Podcast](https://www.youtube.com/channel/UCi-pkXLbm7sqXFhV1NBLUfQ)
-
-<br/>
-
-Crypto Gaming
----
-### Articles
-- [The Financialization of Fun: Crypto Gaming Thesis](https://www.mechanism.capital/crypto-gaming-thesis/)
-
-### Games
-- [Gala Games](https://app.gala.games) - Making blockchain games you'll actually want to play.
-- [Sandbox](https://www.sandbox.game/) - The Sandbox is a virtual Metaverse where players can play, build, own, and monetize their virtual experiences.
-- [Axie Infinity](https://axieinfinity.com) - A digital nation, Battle Collect and Earn
-
-
-<br/>
-
-Metaverse
----
-### Articles
-- [WHAT IS THE METAVERSE, AND DO I HAVE TO CARE?](https://www.theverge.com/22701104/metaverse-explained-fortnite-roblox-facebook-horizon/)
-- [The Metaverse Explained](https://loupfunds.com/the-metaverse-explained-part-1-an-inside-look/) - (A detailed 4 part series by Loup Ventures)
-- [The Metaverse: What It Is, Where to Find it, and Who Will Build It](https://www.matthewball.vc/all/themetaverse)
-- [Life in the Metaverse](https://reboothq.substack.com/p/metaverse)
-- [I Spent 100 Days in the Metaverse by Ryan Trahan](https://www.youtube.com/watch?v=mufeRQYgqZc)
-### Metaverses
-- [Metaverse Resources](https://metaverseresources.org)
-- [Decentraland](https://decentraland.org) - Create, explore and trade in the first-ever virtual world owned by its users.
-- [Hubs by Mozilla](https://hubs.mozilla.com) - Meet, share and collaborate together in private 3D virtual spaces.
-
 
 <br/>
 
