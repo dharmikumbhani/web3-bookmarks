@@ -58,7 +58,6 @@ Getting Started
 - [A beginner's guide to DeFi](https://nakamoto.com/beginners-guide-to-defi/)
 - [The web3 Glossary](https://unstoppabledomains.com/blog/the-web3-glossary)
 - [Whiteboard Crypto](https://www.youtube.com/c/WhiteboardCrypto) - Video Illustrations to break down web3 concepts.
-- [Simply Explained](https://www.youtube.com/c/Savjee)
 
 ### Becoming a web3.0 native
 - [Beginner's Guide to Discord](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord) - Most of the discussion for web3 happen on discord.
@@ -384,5 +383,5 @@ Other Lists
 - [web3 Community Reading List](https://0xgestalt.notion.site/1a71a977e8f64dcfa3c57878bfc0f54b?v=1d5206d7d72244b0893fa9b7982871e4)
 - [Consensys Report](https://consensys.net/reports/web3-report-q3-2021/#DeFi-Economy)
 - [@patriciamou_ Web3 Curations](https://airtable.com/shr2LVB4sRYKkrh2q/tbl6VpdOpR2r5DGsU)
-- [Your beginner's guide to crypto, web3 and the metaverse ](https://primer.guide)
+- [Your beginner's guide to crypto, web3 and the metaverse](https://primer.guide)
 - [The 411 on Web3 101’s: a Collective List of Web3 Learning Experiences and Resources](https://alli.mirror.xyz/wMk-VhWDBVq0Oq-DbmIe3AX4Sz6eYWuYbiDswXPHQJE)
