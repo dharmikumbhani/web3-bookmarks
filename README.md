@@ -354,7 +354,7 @@ People to Follow
 ## Books Recommendations
 - [Blockchain Revolution by Don Tapscott]()
 - [The Soverign Individual]()
-- [Community Matters]()
+- [The Business of Belonging: How to Make Community your Competitive Advantage]()
 - [The Internet of Money: A collection of talks by Andreas M. Antonopoulos]()
 - [The Bitcoin Standard: The Decentralized Alternative to Central Banking]()
 
