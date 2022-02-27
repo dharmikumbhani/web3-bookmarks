@@ -298,6 +298,7 @@ News & Research
 - [Blockworks](https://blockworks.co/) - News and insights about crypto for investors.
 - [Coin Desk](https://www.coindesk.com) - CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.
 - [Delphi Digital](https://delphidigital.io) - Delphi Digital is a leading cryptocurrency research firm, providing cutting-edge insights and updates to a community of over 30000 investors.
+- [ONE37pm](https://www.one37pm.com) - ONE37pm sees the world through the lens of entrepreneurship—the ambition, the ​empathy, the ​grind. For the curious.
 
 <br/>
 
