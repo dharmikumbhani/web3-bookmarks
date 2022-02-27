@@ -43,7 +43,7 @@ A manually curated collection of reading articles/resources and bookmarks for we
   - [Podcasts](#podcasts)
   - [People to Follow](#people-to-follow)
   - [Books To Read](#books-to-read)
-  - [Miscellaneous](#miscellaneous)
+  - [Other Lists](#other-lists)
 
 Getting Started
 ---
