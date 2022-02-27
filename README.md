@@ -38,6 +38,7 @@ A manually curated collection of reading articles/resources and bookmarks for we
   - [VC's & Funds](#vcs--funds)
     - [Grants](#grants)
   - [Jobs](#jobs)
+    - [Earn by Doing](#earn-by-doing)
   - [News & Research](#news--research)
   - [Podcasts](#podcasts)
   - [People to Follow](#people-to-follow)
@@ -56,8 +57,9 @@ Getting Started
 - [A beginner’s guide to DAOs](https://linda.mirror.xyz/Vh8K4leCGEO06_qSGx-vS5lvgUqhqkCz9ut81WwCP2o)
 - [A beginner's guide to DeFi](https://nakamoto.com/beginners-guide-to-defi/)
 - [The web3 Glossary](https://unstoppabledomains.com/blog/the-web3-glossary)
-- [rabbithole](https://rabbithole.gg) - Learn how to use and contribute to decentralized apps, earning tokens based on your on-chain activity.
 - [Whiteboard Crypto](https://www.youtube.com/c/WhiteboardCrypto) - Video Illustrations to break down web3 concepts.
+- [Simply Explained](https://www.youtube.com/c/Savjee)
+
 ### Becoming a web3.0 native
 - [Beginner's Guide to Discord](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord) - Most of the discussion for web3 happen on discord.
 - [MetaMask: What It Is and How To Use It](https://decrypt.co/resources/metamask)
@@ -156,6 +158,7 @@ Defi
 - [A beginner's guide to DeFi](https://nakamoto.com/beginners-guide-to-defi/)
 - [Finematics](https://www.youtube.com/c/Finematics) - Educational videos on DeFi (Decentralized Finance).
 - [What are decentralized exchanges, and how do DEXs work?](https://cointelegraph.com/defi-101/what-are-decentralized-exchanges-and-how-do-dexs-work)
+- [The Defiant](https://thedefiant.io) -  Get daily updates on the Top DeFi Projects and learn how to get into DeFi.
 ### Tickers & Defi Aggregator
 - [Defi Llama](https://defillama.com) - DefiLlama is a DeFi TVL aggregator. It is committed to providing accurate data without ads or sponsored content, as well as transparency.
 - [Zapper](https://zapper.fi) - Manage your entire web3 portfolio from DeFi to NFTs and whatever comes next. Invest in the latest opportunities from one convenient place.
@@ -204,8 +207,10 @@ Developers
 - [101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 - [How to Learn Solidity Programming (the Fun Way)](https://www.nateliason.com/blog/learn-solidity)
 - [How to read a smart contract—and why you’d want to in the first place. 🧵](https://twitter.com/chriscantino/status/1480300076786274304)
+
 ### Tools & Resources
 - [Buildspace](https://buildspace.so) - Learn by making stuff.
+- [Figment Learn](https://learn.figment.io) - The Web 3 education platform for developers, by developers.
 - [CryptoZombies](https://cryptozombies.io) - Learn to Code Blockchain DApps By Building Simple Games
 - [web3 University](https://www.web3.university) - Everything about Blockchain Development
 - [Developer DAO](https://www.developerdao.com) - Onboard, Educate & Support Web3 Developers. [Their Notion Page](https://developerdao.notion.site/developerdao/Developer-DAO-Wiki-eff4dcb00bef46fbaa93e9e4cf940e2e) (Keep an eye on their twitter for membership updates)
@@ -269,7 +274,7 @@ VC's & Funds
 
 <br/>
 
-Jobs
+Jobs/Earning by Doing
 ---
 - [web3.career](https://web3.career)
 - [cryptocurrencyjobs](https://cryptocurrencyjobs.co/web3/)
@@ -287,12 +292,22 @@ Jobs
 - [useweb3 Jobs](https://www.useweb3.xyz/jobs) - Find the latest Web3, Solidity, Ethereum, developer, engineering, product & software jobs in the Web3 ecosystem.
 - [Metaverse Jobs](https://www.themetaversejobs.com) - Metaverse Jobs for Engineers, Designers, Creators, & more.
 
+### Earn by Doing/Contributing & Bounties
+- [rabbithole](https://rabbithole.gg) - Learn how to use and contribute to decentralized apps, earning tokens based on your on-chain activity.
+- [Layer3](https://alpha.layer3.xyz/app) - Earn crypto by doing sh*t
+- [Superteam DAO](https://superteam.fun) - Complete 💰$500 Bounties to earn crypto and get membership to the DAO.
+- [Figment](https://learn.figment.io) - Share your Web 3 learnings with others and earning token of the networks you care about.
+- [kleoverse](https://www.kleoverse.com/bounties) - Building the DAO Working Platform to revolutionize talent signaling, measurement and discovery on the web.
+- [Continuum](https://continuum.xyz) - Earn crypto & level up your creative career.
+
 <br/>
 
 News & Research
 ---
 - [Messari](https://messari.io) - Gain an edge over the crypto market with professional grade data, tools, and research.
+- [Blockchain Research Institute](https://www.blockchainresearchinstitute.org) - The world’s preeminent independent source for blockchain and digital transformation thinking.
 - [The Block](https://www.theblockcrypto.com) - The Block is your reliable source for the latest news and research on digital assets, such as Bitcoin and Ethereum.
+- [The Defiant](https://thedefiant.io) -  Get daily updates on the Top DeFi Projects and learn how to get into DeFi.
 - [Glass Node](https://glassnode.com) - Source and carefully dissect on-chain data, to deliver contextualized and actionable insights for digital-asset owners.
 - [Decrypt](https://decrypt.co/) - Read the latest Bitcoin and Ethereum news from Decrypt. 
 - [Blockworks](https://blockworks.co/) - News and insights about crypto for investors.
@@ -309,6 +324,7 @@ Podcasts
 - [Bankless](https://www.youtube.com/c/Bankless/videos)
 - [Unchained Podcast](https://unchainedpodcast.com)
 - [Superteam Podcast](https://www.youtube.com/channel/UCi-pkXLbm7sqXFhV1NBLUfQ)
+- [Probably Nothing](https://itsprobablynothing.xyz) - Probably Nothing is always something when it comes to NFTs.
 
 <br/>
 
@@ -326,6 +342,8 @@ People to Follow
 - [Joseph Lubin](https://twitter.com/ethereumJoseph)
 - [Coopahtroopa.eth](https://twitter.com/cooopahtroopa)
 - [Ryan Selkis](https://twitter.com/twobitidiot)
+- [Laura Shin](https://twitter.com/laurashin)
+- [Defi Dad]()
 - [Jack](https://twitter.com/jack)
 - [Matthew Ball](https://twitter.com/ballmatthew)
 - [rafa0](https://twitter.com/rafathebuilder)
@@ -360,9 +378,11 @@ People to Follow
 
 <br/>
 
-Miscellaneous
+Other Lists
 ---
 - [Resources - Cryptosociety](https://cryptosociety.notion.site/Resources-a2fae6b46e8b438cb4bf18c83c7a13be)
 - [web3 Community Reading List](https://0xgestalt.notion.site/1a71a977e8f64dcfa3c57878bfc0f54b?v=1d5206d7d72244b0893fa9b7982871e4)
 - [Consensys Report](https://consensys.net/reports/web3-report-q3-2021/#DeFi-Economy)
 - [@patriciamou_ Web3 Curations](https://airtable.com/shr2LVB4sRYKkrh2q/tbl6VpdOpR2r5DGsU)
+- [Your beginner's guide to crypto, web3 and the metaverse ](https://primer.guide)
+- [The 411 on Web3 101’s: a Collective List of Web3 Learning Experiences and Resources](https://alli.mirror.xyz/wMk-VhWDBVq0Oq-DbmIe3AX4Sz6eYWuYbiDswXPHQJE)
