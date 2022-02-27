@@ -381,7 +381,6 @@ Other Lists
 ---
 - [Resources - Cryptosociety](https://cryptosociety.notion.site/Resources-a2fae6b46e8b438cb4bf18c83c7a13be)
 - [web3 Community Reading List](https://0xgestalt.notion.site/1a71a977e8f64dcfa3c57878bfc0f54b?v=1d5206d7d72244b0893fa9b7982871e4)
-- [Consensys Report](https://consensys.net/reports/web3-report-q3-2021/#DeFi-Economy)
 - [@patriciamou_ Web3 Curations](https://airtable.com/shr2LVB4sRYKkrh2q/tbl6VpdOpR2r5DGsU)
-- [Your beginner's guide to crypto, web3 and the metaverse](https://primer.guide)
+- [Primer Guide](https://primer.guide) - Beginner's guide to crypto, web3 and the metaverse
 - [The 411 on Web3 101’s: a Collective List of Web3 Learning Experiences and Resources](https://alli.mirror.xyz/wMk-VhWDBVq0Oq-DbmIe3AX4Sz6eYWuYbiDswXPHQJE)
