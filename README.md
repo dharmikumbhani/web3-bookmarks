@@ -344,7 +344,7 @@ People to Follow
 <br/>
 
 ## Books Recommendations
-- [Blockchain Revolution by Don Tap]()
+- [Blockchain Revolution by Don Tapscott]()
 - [The Soverign Individual]()
 - [Community Matters]()
 - [The Internet of Money: A collection of talks by Andreas M. Antonopoulos]()
