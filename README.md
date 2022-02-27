@@ -20,7 +20,7 @@ A manually curated collection of reading articles/resources and bookmarks for we
       - [Treasury Management](#treasury-management)
       - [Governance](#governance)
       - [Tokenomics](#tokenomics)
-    - [Community Led Reserach (Must Read, its way more comprehensive that what i have listed)](#community-led-reserach-must-read-its-way-more-comprehensive-that-what-i-have-listed)
+    - [Community Led Research (Must Read, its way more comprehensive that what i have listed)](#community-led-reserach-must-read-its-way-more-comprehensive-that-what-i-have-listed)
   - [Defi](#defi)
     - [Articles](#articles-2)
     - [Tools & Resources](#tools--resources)
@@ -143,7 +143,7 @@ We’re building a future where the value created by communities on the internet
 #### Tokenomics
 - [Juicebox Money](https://juicebox.money) - Community funding for people and projects
 - [Mirror](https://mirror.xyz) - Fundraising
-### Community Led Reserach (Must Read, its way more comprehensive that what i have listed)
+### Community Led Research (Must Read, its way more comprehensive that what i have listed)
 - [Tokenomics Resource](https://docs.google.com/spreadsheets/u/0/d/1_py70Ic2u91VILJWCA7AMOXVZmmTv-zGo-LPr3PhDvM/htmlview#)
 - [DAO Guides](https://docs.google.com/spreadsheets/d/16IDgIyPcfwJGG-zmXeMAenYbePQVHkc2P6WCwKEZgpk/htmlview#)
 
