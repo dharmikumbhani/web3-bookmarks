@@ -121,7 +121,7 @@ We’re building a future where the value created by communities on the internet
 
 ### DAO Tools
 #### Multi Feature
-- [Aragon](https://aragon.org/aragon-client) - Level-up your Community
+- [Aargon](https://aragon.org/aragon-client) - Level-up your Community
 - [commonwealth](https://commonwealth.im) - For on-chain communities to discuss, vote, and fund projects together.
 - [Colony](https://colony.io) - Helps build organizations together, online.
 - [utopialabs](https://www.utopialabs.com) - Collaborative payroll and expense management for DAOs
