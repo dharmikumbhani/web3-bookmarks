@@ -283,6 +283,7 @@ Jobs
 - [Developer DAO Tweet Thread](https://twitter.com/developer_dao/status/1478781316699148292)
 - [Crypto Jobs Daily Twitter](https://twitter.com/CryptoJobsDaily)
 - [useweb3 Jobs](https://www.useweb3.xyz/jobs) - Find the latest Web3, Solidity, Ethereum, developer, engineering, product & software jobs in the Web3 ecosystem.
+- [Metaverse Jobs](https://www.themetaversejobs.com) - Metaverse Jobs for Engineers, Designers, Creators, & more.
 
 <br/>
 
