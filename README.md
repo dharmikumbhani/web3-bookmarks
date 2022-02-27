@@ -63,6 +63,7 @@ Getting Started
 - [MetaMask: What It Is and How To Use It](https://decrypt.co/resources/metamask)
 - [What is .eth? ENS Domains explained](https://www.youtube.com/watch?v=jssRnV5Ob6A)
 - [Odyssey DAO](https://www.odysseydao.com) - A learning DAO creating quality, free web3 education. Get "12 days of Web3" email series or start learning at your own pace.
+- [How To Set Up Your Rainbow Wallet](https://www.one37pm.com/nft/tech/how-to-set-up-your-rainbow-wallet) - Rainbow is a fun, simple, and secure Ethereum wallet that makes managing your assets a joy.
 
 <br/>
 
@@ -202,6 +203,7 @@ Developers
 - [Defining the web3 stack](https://edgeandnode.com/blog/defining-the-web3-stack)
 - [101 Smart Contracts and Decentralized Apps in Ethereum](https://auth0.com/blog/101-smart-contracts-and-decentralized-apps-in-ethereum/)
 - [How to Learn Solidity Programming (the Fun Way)](https://www.nateliason.com/blog/learn-solidity)
+- [How to read a smart contract—and why you’d want to in the first place. 🧵](https://twitter.com/chriscantino/status/1480300076786274304)
 ### Tools & Resources
 - [Buildspace](https://buildspace.so) - Learn by making stuff.
 - [CryptoZombies](https://cryptozombies.io) - Learn to Code Blockchain DApps By Building Simple Games
@@ -289,12 +291,13 @@ Jobs
 
 News & Research
 ---
-- [Messari](https://messari.io)
-- [The Block](https://www.theblockcrypto.com)
-- [Glass Node](https://glassnode.com)
-- [Decrypt](https://decrypt.co/)
-- [Coin Desk](https://www.coindesk.com)
-- [Delphi Digital](https://delphidigital.io)
+- [Messari](https://messari.io) - Gain an edge over the crypto market with professional grade data, tools, and research.
+- [The Block](https://www.theblockcrypto.com) - The Block is your reliable source for the latest news and research on digital assets, such as Bitcoin and Ethereum.
+- [Glass Node](https://glassnode.com) - Source and carefully dissect on-chain data, to deliver contextualized and actionable insights for digital-asset owners.
+- [Decrypt](https://decrypt.co/) - Read the latest Bitcoin and Ethereum news from Decrypt. 
+- [Blockworks](https://blockworks.co/) - News and insights about crypto for investors.
+- [Coin Desk](https://www.coindesk.com) - CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.
+- [Delphi Digital](https://delphidigital.io) - Delphi Digital is a leading cryptocurrency research firm, providing cutting-edge insights and updates to a community of over 30000 investors.
 
 <br/>
 
@@ -325,12 +328,16 @@ People to Follow
 - [Jack](https://twitter.com/jack)
 - [Matthew Ball](https://twitter.com/ballmatthew)
 - [rafa0](https://twitter.com/rafathebuilder)
+- [Jeff Morris](https://twitter.com/jmj)
+- [mikedemarais](https://twitter.com/mikedemarais)
 - [Gary Vaynerchuk](https://twitter.com/garyvee)
 - [sassal0x](https://twitter.com/sassal0x)
 - [@iamdcinvestor](https://twitter.com/iamDCinvestor)
 - [Eric](https://twitter.com/econoar)
 - [@mattmedved](https://twitter.com/mattmedved)
-- [@wilxlee](https://twitter.com/wilxlee)
+- [seyitaylor](https://twitter.com/seyitaylor)
+- [dame](https://twitter.com/damedoteth)
+- [wilxlee](https://twitter.com/wilxlee)
 - [Chris Cantino](https://twitter.com/chriscantino)
 - [Torey Kohara](https://twitter.com/torey_kohara)
 - [@dhof](https://twitter.com/dhof)
