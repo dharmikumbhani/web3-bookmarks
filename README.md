@@ -350,6 +350,7 @@ Podcasts
 - [Unchained Podcast](https://unchainedpodcast.com)
 - [Superteam Podcast](https://www.youtube.com/channel/UCi-pkXLbm7sqXFhV1NBLUfQ)
 - [Probably Nothing](https://itsprobablynothing.xyz) - Probably Nothing is always something when it comes to NFTs.
+- [The Delphi Podcast](https://delphidigital.io/podcast) - Listen to the heart of crypto.
 
 <br/>
 
