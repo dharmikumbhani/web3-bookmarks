@@ -1,6 +1,6 @@
 # web3-bookmarks
 ![banner](./images/web3-bookmarks-banner.png)
-A curated collection of reading articles/resources and bookmarks for web3 enthusiasts.
+A curated collection of useful articles and resources for web3 enthusiasts.
 (Although this is a huge list, it is in no shape or form complete, so if you have any edition/addition in the list, feel free to create a pull request and i will surely merge it in)
 
 - [web3-bookmarks](#web3-bookmarks)
@@ -255,6 +255,7 @@ Newsletters & Blogs
 - [Patrick Rivera](https://p.mirror.xyz/aKg6UJL7ngyKbmScJ4YbV4bYzjsrWJxLODyU9Rfr0g0)
 - [Nichanan Kesonpat](https://medium.com/@nichanank)
 - [Dark Star DAO](https://darkstar.mirror.xyz)
+- [Shreyas Hariharan](https://shreyashariharan.com)
 - [Other Internet Substack](https://otherinternet.substack.com)
 - [Bankless](https://newsletter.banklesshq.com)
 - [Multicoin Capital](https://multicoin.capital)
