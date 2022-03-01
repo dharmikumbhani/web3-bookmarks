@@ -179,7 +179,7 @@ Crypto Gaming
 ---
 ### Articles
 - [The Financialization of Fun: Crypto Gaming Thesis](https://www.mechanism.capital/crypto-gaming-thesis/)
-- [](https://gubsheep.substack.com/p/the-strongest-crypto-gaming-thesis?utm_source=url)
+- [The Strongest Crypto Gaming Thesis](https://gubsheep.substack.com/p/the-strongest-crypto-gaming-thesis?utm_source=url)
 
 ### Games
 - [Gala Games](https://app.gala.games) - Making blockchain games you'll actually want to play.
@@ -253,6 +253,7 @@ Newsletters & Blogs
 - [gnosis guild @keikreutler](https://gnosisguild.mirror.xyz)
 - [The Generalist by Mario Gabriele](https://www.readthegeneralist.com)
 - [Patrick Rivera](https://p.mirror.xyz/aKg6UJL7ngyKbmScJ4YbV4bYzjsrWJxLODyU9Rfr0g0)
+- [Nichanan Kesonpat](https://medium.com/@nichanank)
 - [Dark Star DAO](https://darkstar.mirror.xyz)
 - [Other Internet Substack](https://otherinternet.substack.com)
 - [Bankless](https://newsletter.banklesshq.com)
