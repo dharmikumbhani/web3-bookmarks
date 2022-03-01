@@ -43,12 +43,15 @@ A manually curated collection of reading articles/resources and bookmarks for we
   - [Podcasts](#podcasts)
   - [People to Follow](#people-to-follow)
   - [Books Recommendations](#books-recommendations)
+  - [Discussions/Research/BrainStorming](#discussionsresearchbrainstorming)
+  - [CounterArguments](#counterarguments)
   - [Other Lists](#other-lists)
 
 Getting Started
 ---
 - [Why Decentralization Matters](https://onezero.medium.com/why-decentralization-matters-5e3f79f7638e)
 - [What Exactly is Web3? by Juan Benet at Web3 Summit 2018](https://www.youtube.com/watch?v=l44z35vabvA)
+- [web3 starter pack by @jay_drainjr](https://docs.google.com/document/d/1SWJw_NTyUvgdB_asRzsnVyKjciW8dZbeqQeUeWsEiQc/edit#)
 - [Curious Beginner's Guide to Crypto](https://creatoreconomy.so/p/curious-beginner-guide-to-crypto)
 - [What is a Web3 Wallet? – Web3 Wallets Explained](https://moralis.io/what-is-a-web3-wallet-web3-wallets-explained/)
 - [What Is a Block Explorer?](https://www.gemini.com/cryptopedia/what-is-a-block-explorer-btc-bch-eth-ltc)
@@ -75,6 +78,7 @@ NFTs
 - [How NFT Will Change Content World](https://www.verizon.com/about/news/how-nft-will-change-content-world)
 - [10 NFT Future Use Cases](https://identityreview.com/10-nft-future-use-cases/)
 - [Odyssey's NFT Learning Path](https://www.odysseydao.com/pathways/nft) - Learning Path to NFTs
+- [31 Ideas for Music + Crypto by @JackSpallone](https://jack.mirror.xyz/CLVl8maTxlphqKP6eZ1oQ1CJJKT1mvQk7cSflu8g_Lg)
 - [How to Mint an NFT from a Smart Contract on Etherscan: Step-by-Step](https://momentranks.com/blog/how-to-mint-an-nft-from-a-smart-contract-on-etherscan-step-by-step)
 
 ### Marketplaces
@@ -102,12 +106,14 @@ DAOs & Communities
 ---
 ### Articles
 - [What Is a Decentralized Autonomous Organization (DAO)?](https://decrypt.co/resources/decentralized-autonomous-organization-dao)
+- [A Prehistory of DAOs](https://gnosisguild.mirror.xyz/t4F5rItMw4-mlpLZf5JQhElbDfQ2JRVKAzEpanyxW1Q)
 - [A beginner’s guide to DAOs](https://linda.mirror.xyz/Vh8K4leCGEO06_qSGx-vS5lvgUqhqkCz9ut81WwCP2o)
 - [DAO Landscape](https://coopahtroopa.mirror.xyz/_EDyn4cs9tDoOxNGZLfKL7JjLo5rGkkEfRa_a-6VEWw)
 - [Will DAOs replace Corporations?](https://every.to/divinations/will-daos-replace-corporations)
 - [DAO Canon](https://future.a16z.com/dao-canon/)
 - [Crypto x Creator Economy](https://p.mirror.xyz/cVN3KOss0uqpZwxHQKtC4Syvn1RfXaxofFKHJuKLWS4)
 - [The Number 1 Challenge for Humanity - Cooperating at Scale, Part 1](https://akasha.org/blog/2020/07/24/cooperating-at-scale-part-one)
+- [The Guide to DeFi Governance](https://calblockchain.mirror.xyz/Imjv6Y13fA23MpvEoHdYnRDnIvrcp_pyBnwn9pTZ0Bo)
 - [Organization Legos: The State of DAO Tooling](https://medium.com/1kxnetwork/organization-legos-the-state-of-dao-tooling-866b6879e93e)
 
 ### Interesting DAOs to Join
@@ -173,6 +179,7 @@ Crypto Gaming
 ---
 ### Articles
 - [The Financialization of Fun: Crypto Gaming Thesis](https://www.mechanism.capital/crypto-gaming-thesis/)
+- [](https://gubsheep.substack.com/p/the-strongest-crypto-gaming-thesis?utm_source=url)
 
 ### Games
 - [Gala Games](https://app.gala.games) - Making blockchain games you'll actually want to play.
@@ -189,6 +196,7 @@ Metaverse
 - [The Metaverse Explained](https://loupfunds.com/the-metaverse-explained-part-1-an-inside-look/) - (A detailed 4 part series by Loup Ventures)
 - [The Metaverse: What It Is, Where to Find it, and Who Will Build It](https://www.matthewball.vc/all/themetaverse)
 - [Life in the Metaverse](https://reboothq.substack.com/p/metaverse)
+- [Money in the Metaverse](https://www.newyorker.com/news/letter-from-silicon-valley/money-in-the-metaverse)
 - [I Spent 100 Days in the Metaverse by Ryan Trahan](https://www.youtube.com/watch?v=mufeRQYgqZc)
 ### Metaverses
 - [Metaverse Resources](https://metaverseresources.org)
@@ -239,9 +247,17 @@ Newsletters & Blogs
 - [Matthew Ball](https://www.matthewball.vc)
 - [Future from a16z](https://future.a16z.com)
 - [Coopahtroopa](https://coopahtroopa.mirror.xyz)
+- [Cobie](https://cobie.substack.com)
+- [Forefront Market (@forefront__)](https://www.forefront.market) - Exclusive content and market insights on Social Tokens and DAOs.
+- [David Phelps Substact](https://davidphelps.substack.com)
+- [gnosis guild @keikreutler](https://gnosisguild.mirror.xyz)
 - [The Generalist by Mario Gabriele](https://www.readthegeneralist.com)
+- [Patrick Rivera](https://p.mirror.xyz/aKg6UJL7ngyKbmScJ4YbV4bYzjsrWJxLODyU9Rfr0g0)
+- [Dark Star DAO](https://darkstar.mirror.xyz)
+- [Other Internet Substack](https://otherinternet.substack.com)
 - [Bankless](https://newsletter.banklesshq.com)
 - [Multicoin Capital](https://multicoin.capital)
+- [Not Boring by Packy McCormick](https://www.notboring.co)
 - [1729](https://1729.com)
 - [The Defiant](https://newsletter.thedefiant.io)
 - [Pantera Capital](https://panteracapital.com/firm/)
@@ -270,7 +286,13 @@ VC's & Funds
 ### Grants
 - [web3 Foundation](https://web3.foundation/grants/)
 - [web3grants](https://web3grants.org)
+- [Ethereum Support Program](https://esp.ethereum.foundation/about) - Provide grants and other support to the builders of the Ethereum ecosystem
+- [@uniswapgrants](unigrants.org)
+- [@compoundgrants](compoundgrants.org)
+- [@AaveGrants](aavegrants.org)
 - [Gitcoin grants](https://gitcoin.co/grants/)
+- [@PoolGrants](https://poolgrants.org)
+- [@graphgrants](thegraph.foundation)
 
 <br/>
 
@@ -309,7 +331,7 @@ News & Research
 - [The Block](https://www.theblockcrypto.com) - The Block is your reliable source for the latest news and research on digital assets, such as Bitcoin and Ethereum.
 - [The Defiant](https://thedefiant.io) -  Get daily updates on the Top DeFi Projects and learn how to get into DeFi.
 - [Glass Node](https://glassnode.com) - Source and carefully dissect on-chain data, to deliver contextualized and actionable insights for digital-asset owners.
-- [Decrypt](https://decrypt.co/) - Read the latest Bitcoin and Ethereum news from Decrypt. 
+- [Decrypt](https://decrypt.co/) - Read the latest Bitcoin and Ethereum news from Decrypt.
 - [Blockworks](https://blockworks.co/) - News and insights about crypto for investors.
 - [Coin Desk](https://www.coindesk.com) - CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.
 - [Delphi Digital](https://delphidigital.io) - Delphi Digital is a leading cryptocurrency research firm, providing cutting-edge insights and updates to a community of over 30000 investors.
@@ -343,16 +365,22 @@ People to Follow
 - [Coopahtroopa.eth](https://twitter.com/cooopahtroopa)
 - [Ryan Selkis](https://twitter.com/twobitidiot)
 - [Laura Shin](https://twitter.com/laurashin)
-- [Defi Dad]()
+- [Packy McCormick/Not Boring Capital](https://twitter.com/packyM)
+- [Farza](https://twitter.com/FarzaTV)
+- [david phelps/@divine_economy](https://twitter.com/divine_economy)
+- [Defi Dad](https://twitter.com/DeFi_Dad)
 - [Jack](https://twitter.com/jack)
 - [Matthew Ball](https://twitter.com/ballmatthew)
 - [rafa0](https://twitter.com/rafathebuilder)
+- [Elena](https://twitter.com/VirtualElena)
 - [Jeff Morris](https://twitter.com/jmj)
 - [mikedemarais](https://twitter.com/mikedemarais)
 - [Gary Vaynerchuk](https://twitter.com/garyvee)
 - [sassal0x](https://twitter.com/sassal0x)
 - [@iamdcinvestor](https://twitter.com/iamDCinvestor)
+- [@patrickxrivera](https://twitter.com/patrickxrivera)
 - [Eric](https://twitter.com/econoar)
+- [@darkstardao](https://twitter.com/darkstardao)
 - [@mattmedved](https://twitter.com/mattmedved)
 - [seyitaylor](https://twitter.com/seyitaylor)
 - [dame](https://twitter.com/damedoteth)
@@ -378,10 +406,28 @@ People to Follow
 
 <br/>
 
+## Discussions/Research/BrainStorming
+- [Ethereum Magicians](https://ethereum-magicians.org) - Ethereum Magicians is a group of individuals working and contributing to the Ethereum.
+- [ethresear](https://ethresear.ch) - This is a semi-public forum for participating in Ethereum’s research efforts.
+- [Other Internet (@otherinternet__)](https://otherinter.net) - Other Internet is an applied research organization. We study and build social technology.
+- [HackFS Idea Brainstorming](https://www.notion.so/HackFS-Idea-Brainstorming-213a939ef9df48459a4137ecab5f80fc)
+- [NFTHack Idea Brainstorming](https://www.notion.so/NFTHack-Idea-Brainstorming-3cb5bfa5631a44cea3b10ad9e33ac132)
+
+<br/>
+
+## CounterArguments
+- [My first impressions of web3](https://moxie.org/2022/01/07/web3-first-impressions.html)
+- [web3-centralized](https://blog.wesleyac.com/posts/web3-centralized)
+
+
+<br/>
+
 Other Lists
 ---
 - [Resources - Cryptosociety](https://cryptosociety.notion.site/Resources-a2fae6b46e8b438cb4bf18c83c7a13be)
 - [web3 Community Reading List](https://0xgestalt.notion.site/1a71a977e8f64dcfa3c57878bfc0f54b?v=1d5206d7d72244b0893fa9b7982871e4)
+- [@gaby_goldberg web3 Reading List](https://gabygoldberg.notion.site/f7050e62461143d49345e7b46eb5576b?v=c02511c4230c44ce9a1a03c9757da524)
+- [Gaby's web3 Podcast List](https://gabygoldberg.notion.site/8d124b6139ad41ef84c11b0a32cedc49?v=040c8d87221e466e98ffea726bf649eb)
 - [@patriciamou_ Web3 Curations](https://airtable.com/shr2LVB4sRYKkrh2q/tbl6VpdOpR2r5DGsU)
 - [Metaverse Resources](https://metaverseresources.org)
 - [Primer Guide](https://primer.guide) - Beginner's guide to crypto, web3 and the metaverse
