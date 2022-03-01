@@ -256,6 +256,7 @@ Newsletters & Blogs
 - [Nichanan Kesonpat](https://medium.com/@nichanank)
 - [Dark Star DAO](https://darkstar.mirror.xyz)
 - [Shreyas Hariharan](https://shreyashariharan.com)
+- [withsmoothie by - withmattkim](https://www.withsmoothie.com) - Learn Crypto with visual storytelling
 - [Other Internet Substack](https://otherinternet.substack.com)
 - [Bankless](https://newsletter.banklesshq.com)
 - [Multicoin Capital](https://multicoin.capital)
@@ -378,6 +379,9 @@ People to Follow
 - [Jeff Morris](https://twitter.com/jmj)
 - [mikedemarais](https://twitter.com/mikedemarais)
 - [Gary Vaynerchuk](https://twitter.com/garyvee)
+- [mattcha.eth](https://twitter.com/withmattkim)
+- [Jack Butcher](https://twitter.com/jackbutcher)
+- [mattdowney](https://twitter.com/mattdowney)
 - [sassal0x](https://twitter.com/sassal0x)
 - [@iamdcinvestor](https://twitter.com/iamDCinvestor)
 - [@patrickxrivera](https://twitter.com/patrickxrivera)
