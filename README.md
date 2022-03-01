@@ -90,6 +90,7 @@ NFTs
 ### Tools and Resources
 - [PartyBid DAO](https://www.partybid.app) - Form a party, join forces, and buy NFTs as a team.
 - [NFT Stats](https://www.nft-stats.com) - Discover the latest trends about the fast growing NFT market.
+- [NFTGo](https://nftgo.io) - The best all-in-one NFT analytics platform
 - [CryptoSlam](https://cryptoslam.io)
 - [icy.tools](https://icy.tools) - Discover, track, and analyze trending NFTs with real time floor and volume data. Deep dive with historical charts, trend data, and full transaction history.
 - [NFT Banks](https://nftbank.ai/landing) -  A powerful NFT tool that can provide instant insights on investments
