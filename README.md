@@ -394,6 +394,7 @@ People to Follow
 - [6529](https://twitter.com/punk6529)
 - [richerd.eth](https://twitter.com/richerd)
 - [Andre Cronje](https://twitter.com/AndreCronjeTech)
+- [Nichanan Kesonpat](https://twitter.com/nichanank)
 - [Route2Fi](https://twitter.com/Route2FI)
 
 <br/>
